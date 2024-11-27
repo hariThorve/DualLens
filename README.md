@@ -4,7 +4,7 @@
 
 
 
-# 🔍 AI Research Assistant
+# 🔍 DualLens
 
 An intelligent search engine that combines web scraping, vector databases, and Google's Gemini AI to provide comprehensive answers to queries by analyzing multiple sources and synthesizing information.
 
